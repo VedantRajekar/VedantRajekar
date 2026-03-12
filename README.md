@@ -23,8 +23,8 @@ const vedant = {
 ## 🌐 Connect With Me
 
 - GitHub: https://github.com/VedantRajekar
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: vedantr0704@gmail.com@email.com
+- LinkedIn: https://www.linkedin.com/in/vedant-rajekar-133780360/
+- Email: vedantr0704@gmail.com
 
 ---
 
